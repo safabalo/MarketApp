@@ -10,7 +10,7 @@ Gemfile
 app.json
 .prettierrc.js
 tsconfig.json
-eslintrc.js
+.eslintrc.js
 babel.config.js
 metro.config.js
 # OSX

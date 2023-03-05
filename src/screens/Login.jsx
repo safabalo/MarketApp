@@ -52,11 +52,6 @@ const styles = StyleSheet.create({
       justifyContent: 'center',
       marginTop: 20,
     },
-    textButton: {
-      color: '#fff',
-      fontSize: 15,
-      fontWeight: 'bold',
-
-    },
+    
 })
 export default Login;
